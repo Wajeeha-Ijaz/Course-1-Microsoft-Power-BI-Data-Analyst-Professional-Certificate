@@ -10,4 +10,5 @@
   - Deploy and Maintain Power BI Assets and Capstone project
   - Microsoft PL-300 Exam Preparation and Practice
     
-### This repository will have all the practice, non-graded and graded activities. 
+### This repository will have all the practice, non-graded and graded activities, includes in first module 
+- Preparing Data for Analysis with Microsoft Excel
